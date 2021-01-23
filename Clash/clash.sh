@@ -185,3 +185,5 @@ echo -e "\033[1;32mRuta de archivo de importacion de servidor Clash: http://$IP:
 echo -e "\033[1;31mPRESIONE ENTER PARA CONTINUAR\033[0m"
 read -p " "
 fi
+
+elsereturjgsh67
